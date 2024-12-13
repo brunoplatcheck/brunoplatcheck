@@ -1,74 +1,56 @@
 # Welcome to My Repository.
 
-
-
-
 ## About me:
+Passionate about science, technology, and constant learning. I graduated from PUC-RS, with experience in laboratory work (studies of parasites and clinical analyses) and field activities, such as visits, wildlife surveys, and management of wild animals. Additionally, I have experience in organizing academic events, such as courses, lectures, and symposiums.
 
+I expanded my training with a specialization in Game Design, developing knowledge in 3D modeling and game development, and I am currently pursuing a technical course in Systems Development at Senac. My goal is to continue growing both professionally and personally, always learning and adapting to challenges.
 
+## Academic Background:
+Technical in Analysis and Development of Systems SENAC, Porto Alegre 2023 - Currently
+Competencies: Azure DevOps Server, APP Inventor, Adobe Photoshop, Programming Logic, Java, MySQL, Data Analysis, English (C1).
 
+Specialization in Game Design PUC-RS, Porto Alegre 2018 - 2019
+Competencies: Unity3D, Blender, 3D Studio Max, GIMP, Animation, Research in 3D Modeling.
 
-Apaixonado por ciência, tecnologia e aprendizado constante. Sou Bólogo formado pela PUCRS, com experiência em laboratório (estudos de parasitos e análises clínicas) e atividades de campo, como vistorias, levantamento de fauna e manejo de animais silvestres. Além disso, possuo experiência na organização de eventos acadêmicos, como cursos, palestras e simpósios.
+Bachelor's degree in Biological Sciences PUC-RS, Porto Alegre 2010 - 2017
+Competencies: Evolutionary Biology, Field Work, Zoology, Taxonomy, Ecology, Microbiology, and Environmental Education.
 
-Ampliei minha formação com uma especialização em Game Design, desenvolvendo conhecimentos em modelagem 3D e desenvolvimento de jogos, e atualmente estou cursando um técnico em Desenvolvimento de Sistemas no Senac. Meu objetivo é continuar crescendo tanto profissional quanto pessoalmente, sempre aprendendo e me adaptando aos desafios.
+## Professional Experience
 
-## Formação Acadêmica:
+# QA Analyst at GBX Brasil (2024)
+Realization of manual tests in software, developing and executing test scripts.
 
-Técnico em Análise e Desenvolvimento de SistemasSENAC, Porto Alegre2023 - AtualmenteCompetências: Azure DevOps Server, APP Inventor, Adobe Photoshop, Lógica de Programação, Java, MySQL, Análise de Dados, Inglês (C1).
+Elaboration of detailed relationships, contributing to the improvement and quality of products.
 
-Especialização em Game DesignPUCRS, Porto Alegre2018 - 2019Competências: Unity3D, Blender, 3D Studio Max, GIMP, Animação, Pesquisa e Modelagem 3D.
+Collaboration with multidisciplinary teams in problem resolution and process optimization.
 
-Bacharelado em Ciências BiológicasPUCRS, Porto Alegre2010 - 2017Competências: Biologia Evolutiva, Trabalho de Campo, Zoologia, Taxonomia, Ecologia, Microbiologia, e Educação Ambiental.
+# Volunteer at Instituto Sauver (2017-2018)
+Capture and identification of urban fauna and organization of scientific events.
 
-## Experiência Profissional
+Planning of educational games aimed at conservation and environmental education in science.
 
-# QA Analyst – GBX Brasil (2024)
+Monitoring in courses and field expeditions.
 
-Realização de testes manuais em software, desenvolvendo e executando roteiros de testes.
+# Research Assistant at UFRGS (2014-2015)
+Collection, triage, and identification of insects in the field.
 
-Elaboração de relatórios detalhados, contribuindo para a melhoria e qualidade dos produtos.
+Compilation and organization of data for scientific publications.
 
-Colaboração com equipes multidisciplinares na resolução de problemas e otimização de processos.
+# Internships in Laboratories and Clinics (2011-2016)
+Activities in parasitology laboratories, clinical analysis, and research with food.
 
-# Voluntário – Instituto Sauver (2017-2018)
+Management and monitoring of wild animals.
 
-Captura e identificação de fauna urbana e organização de eventos científicos.
+## Skills:
+- Languages and Frameworks: Java, JavaScript, Python, PHP, MySQL, SQL, SQLite,C, HTML/CSS, Unity, Blender, Photoshop.
+- Technical Competencies: 3D Modeling, Software Testing, Front-End and Back-End Development.
+- Languages: English (C1), French (B2), Spanish (B1).
 
-Planejamento de jogos educativos voltados à conservação e educação em ciências.
-
-Monitoria em cursos e expedições de campo.
-
-# Auxiliar de Pesquisa – UFRGS (2014-2015)
-
-Coleta, triagem e identificação de coleópteros em campo.
-
-Compilação e organização de dados para publicações científicas.
-
-# Estágios em Laboratórios e Clínicas (2011-2016)
-
-Atividades em laboratórios de parasitologia, análise clínica e pesquisa com alimentos.
-
-Manejo e monitoramento de animais silvestres e domésticos.
-
-
-## Habilities:
-
-- Linguagens e Ferramentas: Java, JavaScript, Python, PHP, MySQL, HTML/CSS, Unity, Blender, Photoshop.
-
-- Competências Técnicas: Modelagem 3D, Testes de Software, Desenvolvimento Front-End e Back-End.
-
-- Idiomas: Inglês (C1), Francês (B2), Espanhol (B1).
-
-## Certificações
-
-- Python Essentials 1 e 2 (Cisco, 2024)
-
-- JavaScript Essentials 1 e 2 (Cisco, 2024)
-
+## Certifications
+- Python Essentials 1 and 2 (Cisco, 2024)
+- JavaScript Essentials 1 and 2 (Cisco, 2024)
 - Data Analytics Essentials (Cisco, 2024)
-
-- Imersão Python e Front-End (Alura, 2023-2024)
-
+- Immersion Python and Front-End (Alura, 2023-2024)
 
 - **Languages**:
     - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -93,13 +75,3 @@ Manejo e monitoramento de animais silvestres e domésticos.
 - _Linkedin_ = https://www.linkedin.com/in/bruno-paz-platcheck-06663758/
 - _Discord_ =  Bruno platcheck #9550
 - _E-mail_ = brunoplatcheck@hotmail.com
-
-
-
-
-## Others Midias
-
-
-
-
-- _SketchFab_ = https://sketchfab.com/brunoplatcheck
