@@ -1,77 +1,79 @@
-# Welcome to My Repository.
+# Portfolio of Bruno Paz Platcheck
 
-## About me:
-Passionate about science, technology, and constant learning. I graduated from PUC-RS, with experience in laboratory work (studies of parasites and clinical analyses) and field activities, such as visits, wildlife surveys, and management of wild animals. Additionally, I have experience in organizing academic events, such as courses, lectures, and symposiums.
+## About Me
+Passionate about science, technology, and continuous learning, I hold a degree from PUC-RS with experience in laboratory work (clinical analysis and parasite studies) and field activities (wildlife management and environmental education). Recently, I expanded my knowledge with a specialization in Game Design and am currently pursuing a technical course in Systems Development at Senac.  
 
-I expanded my training with a specialization in Game Design, developing knowledge in 3D modeling and game development, and I am currently pursuing a technical course in Systems Development at Senac. My goal is to continue growing both professionally and personally, always learning and adapting to challenges.
+My goal is to merge creativity and technology, continuously growing both professionally and personally, while tackling new challenges and contributing to impactful projects.
 
-## Academic Background:
-Technical in Analysis and Development of Systems SENAC, Porto Alegre 2023 - Currently
-Competencies: Azure DevOps Server, APP Inventor, Adobe Photoshop, Programming Logic, Java, MySQL, Data Analysis, English (C1).
+## Academic Background
+- **Technical Course in Systems Development**  
+  SENAC, Porto Alegre (2023 - Present)  
+  *Key Skills*: Azure DevOps, APP Inventor, Adobe Photoshop, Programming Logic, Java, MySQL, Data Analysis, English (C1).
 
-Specialization in Game Design PUC-RS, Porto Alegre 2018 - 2019
-Competencies: Unity3D, Blender, 3D Studio Max, GIMP, Animation, Research in 3D Modeling.
+- **Specialization in Game Design**  
+  PUC-RS, Porto Alegre (2018 - 2019)  
+  *Key Skills*: Unity3D, Blender, 3D Studio Max, GIMP, Animation, and 3D Modeling Research.
 
-Bachelor's degree in Biological Sciences PUC-RS, Porto Alegre 2010 - 2017
-Competencies: Evolutionary Biology, Field Work, Zoology, Taxonomy, Ecology, Microbiology, and Environmental Education.
+- **Bachelor's Degree in Biological Sciences**  
+  PUC-RS, Porto Alegre (2010 - 2017)  
+  *Key Skills*: Evolutionary Biology, Zoology, Taxonomy, Ecology, Microbiology, and Environmental Education.
 
 ## Professional Experience
+- **QA Analyst** - GBX Brasil (2024)  
+  - Conducted manual software testing and developed detailed test scripts.  
+  - Prepared comprehensive reports, improving product quality.  
+  - Collaborated with multidisciplinary teams to optimize processes and resolve issues.  
 
-# QA Analyst at GBX Brasil (2024)
-Realization of manual tests in software, developing and executing test scripts.
+- **Volunteer** - Instituto Sauver (2017-2018)  
+  - Captured and identified urban fauna.  
+  - Planned educational games for conservation and environmental awareness.  
+  - Assisted in organizing scientific events and monitoring field expeditions.  
 
-Elaboration of detailed relationships, contributing to the improvement and quality of products.
+- **Research Assistant** - UFRGS (2014-2015)  
+  - Collected and identified insects in the field.  
+  - Organized data for scientific publications.  
 
-Collaboration with multidisciplinary teams in problem resolution and process optimization.
-
-# Volunteer at Instituto Sauver (2017-2018)
-Capture and identification of urban fauna and organization of scientific events.
-
-Planning of educational games aimed at conservation and environmental education in science.
-
-Monitoring in courses and field expeditions.
-
-# Research Assistant at UFRGS (2014-2015)
-Collection, triage, and identification of insects in the field.
-
-Compilation and organization of data for scientific publications.
-
-# Internships in Laboratories and Clinics (2011-2016)
-Activities in parasitology laboratories, clinical analysis, and research with food.
+- **Laboratory and Clinical Internships** (2011-2016)  
+  - Worked in parasitology and clinical analysis labs.  
+  - Managed and monitored wild animals in controlled environments.  
 
 Management and monitoring of wild animals.
-
-## Skills:
-- Languages and Frameworks: Java, JavaScript, Python, PHP, MySQL, SQL, SQLite,C, HTML/CSS, Unity, Blender, Photoshop.
-- Technical Competencies: 3D Modeling, Software Testing, Front-End and Back-End Development.
-- Languages: English (C1), French (B2), Spanish (B1).
+## Technical Skills
+- **Programming Languages**: Java, JavaScript, Python, PHP, C, HTML, CSS.  
+- **Tools and Frameworks**: Unity, Blender, MySQL, SQLite, Azure DevOps, Photoshop.  
+- **Languages**: English (C1), French (B2), Spanish (B1).  
 
 ## Certifications
-- Python Essentials 1 and 2 (Cisco, 2024)
-- JavaScript Essentials 1 and 2 (Cisco, 2024)
-- Data Analytics Essentials (Cisco, 2024)
-- Immersion Python and Front-End (Alura, 2023-2024)
+- **Python Essentials 1 and 2** (Cisco, 2024)  
+- **JavaScript Essentials 1 and 2** (Cisco, 2024)  
+- **Data Analytics Essentials** (Cisco, 2024)  
+- **Python and Front-End Immersion** (Alura, 2023-2024)  
 
-- **Languages**:
-    - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-    - ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-    - ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-    - ![CSS](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-    - ![HTML](https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white)
-    - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-    - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-    - ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-    - ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
-- **Data Bank**:
-    - ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-    - ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-- **3D**:
-    - 3D Max
-    - ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-    - Substance
+## Technologies Overview
+- **Programming**:  
+  - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  - ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+  - ![CSS](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+  - ![HTML](https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white)
+  - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+  - ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+ - ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
+
+- **Databases**:  
+ - ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+- ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+- **3D Design**:  
+  ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)  
+  3D Studio Max, Substance.  
 
 ## Contact
+- **LinkedIn**: [Bruno Paz Platcheck](https://www.linkedin.com/in/bruno-paz-platcheck-06663758/)  
+- **Discord**: Bruno Platcheck#9550  
+- **Email**: brunoplatcheck@hotmail.com
+- **Sketchfab**: [brunoplatcheck@hotmail.com](https://sketchfab.com/brunoplatcheck )
+- **GitHub**: https://github.com/brunoplatcheck
+- **Lattes**: http://lattes.cnpq.br/1842381197538497
 
-- _Linkedin_ = https://www.linkedin.com/in/bruno-paz-platcheck-06663758/
-- _Discord_ =  Bruno platcheck #9550
-- _E-mail_ = brunoplatcheck@hotmail.com
