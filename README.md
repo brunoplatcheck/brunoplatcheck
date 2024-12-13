@@ -88,34 +88,7 @@ Manejo e monitoramento de animais silvestres e domésticos.
     - ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
     - Substance
 
-
-
-## Last Projects
-
-
-
-
-- [Project_1](Guessing_Game)
-- [Project_2](EvenOdd)
-- [Project_3](Monetary_Converter)
-- [Project_4](Deniers_of_Fate)
-- [Project_5](ProjetoIntegrador)
-- [Project_6](Imersão_alura_frontend)
-- [Project_7](Imersão_FullCycle)
-- [Project_8](Projeto_Liverpool)
-- [Project_9](LT's Play)On Development
-
-
-
-
-
-
-
-
 ## Contact
-
-
-
 
 - _Linkedin_ = https://www.linkedin.com/in/bruno-paz-platcheck-06663758/
 - _Discord_ =  Bruno platcheck #9550
