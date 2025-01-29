@@ -76,9 +76,9 @@ My goal is to merge creativity and technology, continuously growing both profess
 
 ## Contact
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-paz-platcheck-06663758/) 
-- ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)(Bruno Platcheck#9550)
 - [![Sketchfab](https://img.shields.io/badge/Sketchfab-1CAAD9.svg?style=for-the-badge&logo=Sketchfab&logoColor=white)](https://sketchfab.com/brunoplatcheck )
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brunoplatcheck)
 - [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/brunoplatcheck_68791?tab=achievements)
 - **Lattes**: http://lattes.cnpq.br/1842381197538497
 - **Email**: brunoplatcheck@hotmail.com
+- **Discord**:Bruno Platcheck#9550
