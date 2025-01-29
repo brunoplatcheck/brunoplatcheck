@@ -43,8 +43,6 @@ My goal is to merge creativity and technology, continuously growing both profess
 - **Tools and Frameworks**: Unity, Blender, MySQL, SQLite, Azure DevOps, Photoshop.  
 - **Languages**: English (C1), French (B2), Spanish (B1).
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
-
 ## Certifications
 - **Python Essentials 1 and 2** (Cisco, 2024)  
 - **JavaScript Essentials 1 and 2** (Cisco, 2024)  
