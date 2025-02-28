@@ -91,5 +91,6 @@ My goal is to merge creativity and technology, continuously growing both profess
 - [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/brunoplatcheck_68791?tab=achievements)
 - [![Lattes](https://img.shields.io/badge/Lattes-CNPq-blue?style=for-the-badge&logo=academia&logoColor=white)](http://lattes.cnpq.br/1842381197538497)
 - ![Discord](https://img.shields.io/badge/Discord-Bruno%20Platcheck%239550-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-- **Email**: brunoplatcheck@hotmail.com
+- [![Email](https://img.shields.io/badge/Email-brunoplatcheck%40hotmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunoplatcheck@hotmail.com)
+
 
