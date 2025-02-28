@@ -72,7 +72,9 @@ My goal is to merge creativity and technology, continuously growing both profess
 
 - **3D Design**:  
   - ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)  
-  3D Studio Max, Substance.  
+  - ![3D Studio Max](https://img.shields.io/badge/Autodesk-3ds%20Max-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+  - ![Substance](https://img.shields.io/badge/Substance-Painter-EA7600?style=for-the-badge&logo=adobe&logoColor=white)
+  
 
 - **Tools**:
   - ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)	
@@ -87,6 +89,7 @@ My goal is to merge creativity and technology, continuously growing both profess
 - [![Sketchfab](https://img.shields.io/badge/Sketchfab-1CAAD9.svg?style=for-the-badge&logo=Sketchfab&logoColor=white)](https://sketchfab.com/brunoplatcheck )
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brunoplatcheck)
 - [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/brunoplatcheck_68791?tab=achievements)
-- **Lattes**: http://lattes.cnpq.br/1842381197538497
+- [![Lattes](https://img.shields.io/badge/Lattes-CNPq-blue?style=for-the-badge&logo=academia&logoColor=white)](http://lattes.cnpq.br/1842381197538497)
+- ![Discord](https://img.shields.io/badge/Discord-Bruno%20Platcheck%239550-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 - **Email**: brunoplatcheck@hotmail.com
-- **Discord**:Bruno Platcheck#9550
+
