@@ -59,9 +59,9 @@ My goal is to merge creativity and technology, continuously growing both profess
   - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
   - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
   - ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
- - ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
- - ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
- - ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+  - ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
+  - ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+  - ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 - **Databases**:  
  - ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
