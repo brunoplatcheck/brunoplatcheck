@@ -93,8 +93,6 @@ My goal is to merge creativity and technology, continuously growing both profess
     ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
     ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
- 
-[![card](https://github-readme-stats.vercel.app/api?username=brunoplatcheck&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-paz-platcheck-06663758/) 
