@@ -59,7 +59,6 @@ My goal is to merge creativity and technology, continuously growing both profess
 - **Unity 3D Development** (Udemy, 2023)  
 - **Full-Stack Web Development Bootcamp** (freeCodeCamp, 2023)  
 - **Game Development Conference 2024** (Participated as attendee)  
-- **Tech Talks at SENAC** (Attended, 2023)  
 
 ## Technologies Overview
 - **Programming**:  
