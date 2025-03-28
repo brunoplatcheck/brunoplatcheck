@@ -86,7 +86,6 @@ My goal is to merge creativity and technology, continuously growing both profess
     ![3D Studio Max](https://img.shields.io/badge/Autodesk-3ds%20Max-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
     ![Substance](https://img.shields.io/badge/Substance-Painter-EA7600?style=for-the-badge&logo=adobe&logoColor=white)
   
-
 - **Tools**:
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)	
     ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
